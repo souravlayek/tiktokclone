@@ -36,5 +36,4 @@ npm install
 #  run
 npx react-native run-android
 ```
-![screenshot 1](https://github.com/souravlayek/tiktokclone/blob/master/screenshots/ss1.jpg)
-![screenshot 2](https://github.com/souravlayek/tiktokclone/blob/master/screenshots/ss2.jpg)
+<img src="https://github.com/souravlayek/tiktokclone/blob/master/screenshots/ss1.jpg" width="45%" />| <img src="https://github.com/souravlayek/tiktokclone/blob/master/screenshots/ss2.jpg" width="45%" />
