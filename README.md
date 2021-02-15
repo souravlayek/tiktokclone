@@ -17,7 +17,7 @@
 
 
 ### how to use
-download [apk]("./app-universal-release.apk")
+download [apk](app-universal-release.apk)
 
 
 -- or --
